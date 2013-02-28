@@ -1,4 +1,6 @@
 *.py[cod]
+*.mp3
+*.wav
 
 # C extensions
 *.so
